@@ -7,7 +7,7 @@ int main()
 
  if(m>='A' && m<='Z'){
   m=m+32;
-  printf("%c",m);
+  printf("This is %c",m);
  }
  else if (m>='a' && m<='z'){
         m=m-32;
